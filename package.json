@@ -3,10 +3,11 @@
     "displayName": "After Sunset Theme",
     "description": "Minimal dark syntax theme for VS Code",
     "version": "0.1.0",
+    "publisher": "exler",
     "homepage": "https://github.com/exler/after-sunset-vscode",
     "repository": {
         "type": "git",
-        "url": "https://github.com/tinkertrain/after-sunset-vscode"
+        "url": "https://github.com/exler/after-sunset-vscode"
     },
     "engines": {
         "vscode": "^1.69.0"
@@ -20,6 +21,7 @@
         "dark",
         "flat"
     ],
+    "icon": "assets/logo.png",
     "contributes": {
         "themes": [
             {

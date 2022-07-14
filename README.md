@@ -1,10 +1,16 @@
 <p align="center">
-    <h1>After Sunset Theme</h1>
+    <img src="https://raw.githubusercontent.com/exler/after-sunset-vscode/main/assets/banner.png" width="182">
     <p align="center">Minimal dark syntax theme for VS Code</p>
     <p align="center">
       <img alt="MIT License" src="https://img.shields.io/github/license/exler/after-sunset-vscode?color=yellow">
     </p>
 </p>
+
+## Installation
+
+1. Go to Extensions
+2. Search for `After Sunset Theme` and install
+3. Go to `Preferences > Color Theme` and choose After Sunset Theme as the color theme
 
 ## Development
 
@@ -16,4 +22,4 @@
 
 ## License
 
-`after-sunset-vscode` is under the terms of the [MIT License](https://www.tldrlegal.com/l/mit), following all clarifications stated in the [license file].(LICENSE).
+`after-sunset-vscode` is under the terms of the [MIT License](https://www.tldrlegal.com/l/mit), following all clarifications stated in the [license file](LICENSE).
