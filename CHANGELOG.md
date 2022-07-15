@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.3 | 2022.07.15
+
+- Improve breadcrumb colors
+- Fix tab colors
+
 ## 0.1.2 | 2022.07.15
 
 - Increase contrast in menu
