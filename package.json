@@ -30,5 +30,11 @@
                 "path": "./themes/After-Sunset-Theme-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "package": "vsce package"
+    },
+    "devDependencies": {
+        "vsce": "^2.9.3"
     }
 }
