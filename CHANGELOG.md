@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.4 | 2022.08.13
+
+- Fix scrollbar visibility
+
 ## 0.1.3 | 2022.07.15
 
 - Improve breadcrumb colors
