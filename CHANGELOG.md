@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.1.5 | 2023.08.11
+
+- Create a Github Action for packaging and creating a Github release for the theme
+- Change color of `activityBar.activeBorder` to primary color
+- Replace deprecated `editorIndentGuide` properties
+
 ## 0.1.4 | 2022.08.13
 
 - Fix scrollbar visibility
